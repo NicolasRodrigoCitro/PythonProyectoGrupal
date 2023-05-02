@@ -1,0 +1,339 @@
+timestamp,id,evento,usuarie,estado,texto ingresado,respuesta,nivel
+1656105735.9742188,5c955383-3c89-4a83-a7cd-0d1dd28bca99,inicio_partida,PEPE,,,,normal
+1656105737.7959814,5c955383-3c89-4a83-a7cd-0d1dd28bca99,intento,PEPE,error,Pedro De la Vega,Jordan Lyden,normal
+1656105738.7546504,5c955383-3c89-4a83-a7cd-0d1dd28bca99,intento,PEPE,error,Ilia Gruev,Nicolai Geertsen,normal
+1656105739.4589858,5c955383-3c89-4a83-a7cd-0d1dd28bca99,intento,PEPE,error,Lago Lácar,Lago Cardiel,normal
+1656105741.0179417,5c955383-3c89-4a83-a7cd-0d1dd28bca99,fin,PEPE,abandonado,-,-,normal
+1656107007.542639,54ae308c-75e9-46d5-ad1a-451536570429,inicio_partida,as,,,,personalizado
+1656107010.2171218,54ae308c-75e9-46d5-ad1a-451536570429,intento,as,error,Abdulfatah Adam,Valentino Yuel,personalizado
+1656107015.1726835,54ae308c-75e9-46d5-ad1a-451536570429,intento,as,ok,Nicolás Capaldo,Nicolás Capaldo,personalizado
+1656107018.9979784,54ae308c-75e9-46d5-ad1a-451536570429,fin,as,abandonado,-,-,personalizado
+1656107134.2952309,d1b9cd16-e652-4c17-a3cb-7e0616cdc460,inicio_partida,LUCAS,,,,dificil
+1656107138.994989,d1b9cd16-e652-4c17-a3cb-7e0616cdc460,fin,LUCAS,abandonado,-,-,dificil
+1656107225.5114326,d5e94080-927f-466a-b6ba-13a815a32724,inicio_partida,PEPE,,,,normal
+1656107229.182595,d5e94080-927f-466a-b6ba-13a815a32724,fin,PEPE,abandonado,-,-,normal
+1656107239.599213,3d77883f-ecc9-46d4-87e9-25c7d861fd31,inicio_partida,PEPE,,,,normal
+1656107243.756997,3d77883f-ecc9-46d4-87e9-25c7d861fd31,intento,PEPE,error,Lago Espejo,Lago Nansen,normal
+1656107245.0196908,3d77883f-ecc9-46d4-87e9-25c7d861fd31,intento,PEPE,error,Jesús Fortes,Ulisses Garcia,normal
+1656107246.2730742,3d77883f-ecc9-46d4-87e9-25c7d861fd31,intento,PEPE,error,Anuel AA,Liam Payne,normal
+1656107247.3390098,3d77883f-ecc9-46d4-87e9-25c7d861fd31,intento,PEPE,error,Lago Puelo,Lago Menéndez,normal
+1656107248.9271562,3d77883f-ecc9-46d4-87e9-25c7d861fd31,intento,PEPE,error,Lago Argentino,Lago Chepelmut,normal
+1656107254.3758206,3d77883f-ecc9-46d4-87e9-25c7d861fd31,fin,PEPE,abandonado,-,-,normal
+1656107315.7916489,78ec298f-7622-43e1-a70c-79eab6d38daf,inicio_partida,LUCAS,,,,personalizado
+1656107320.1502123,78ec298f-7622-43e1-a70c-79eab6d38daf,intento,LUCAS,error,BTS,JAY-Z,personalizado
+1656107321.864205,78ec298f-7622-43e1-a70c-79eab6d38daf,intento,LUCAS,error,Lago Traful,Lago Blanco,personalizado
+1656107324.2874577,78ec298f-7622-43e1-a70c-79eab6d38daf,fin,LUCAS,abandonado,-,-,personalizado
+1656107377.2625315,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,inicio_partida,PEPE,,,,personalizado
+1656107381.0705829,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Luis Cabrera,Andrés Sarmiento,personalizado
+1656107381.980473,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Lago San Martín,Lago Aluminé,personalizado
+1656107383.1703155,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,ok,Mykyta Burda,Mykyta Burda,personalizado
+1656107384.310478,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Lago Cholila,Lago Huechulafquen,personalizado
+1656107385.3901272,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Emmanuel Dennis,Hannes Wolf,personalizado
+1656107386.4687226,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Klingande,Beyoncé,personalizado
+1656107387.8931673,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,ok,David Nemeth,David Nemeth,personalizado
+1656107388.9244933,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Hozier,Lil Nas X,personalizado
+1656107389.9607258,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Alexander B. Hansen,Jan Oblak,personalizado
+1656107391.0944018,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Eric Church,The Band Perry,personalizado
+1656107391.718248,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Bakery Jatta,Moisés Corozo,personalizado
+1656107392.21553,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Mac Miller,Nicki Minaj,personalizado
+1656107392.648934,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Lago Aluminé,Lago Yehuin,personalizado
+1656107393.4011877,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Jordan Elsey,Fabián Sambueza,personalizado
+1656107393.7791371,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Slavoljub Srnic,Dejan Kerkez,personalizado
+1656107394.1861289,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Caleb Stanko,Filipe Ferreira,personalizado
+1656107394.5751193,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Michal Siplak,Wang Dalong,personalizado
+1656107395.9779844,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,ok,Nabil Bentaleb,Nabil Bentaleb,personalizado
+1656107397.0605679,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Pablo Bueno,Alexander Barboza,personalizado
+1656107397.6146486,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,intento,PEPE,error,Grimes,NLE Choppa,personalizado
+1656107397.9210162,67b587e8-6ff5-4f06-990d-c3a6f7c6fca9,fin,PEPE,finalizado,-,-,personalizado
+1656109601.441458,d37a9206-8c3a-4cf8-89aa-bff34e704706,inicio_partida,LUCAS,,,,personalizado
+1656109606.677277,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,Yang Xu,Hauke Wahl,personalizado
+1656109607.5725806,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,blackbear,Justin Bieber,personalizado
+1656109608.3886037,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,Carlos Fierro,Stefan Posch,personalizado
+1656109609.1815274,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,Jennifer Lopez,Ayo & Teo,personalizado
+1656109609.9721289,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,B Young,Chris Brown,personalizado
+1656109610.7316403,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,DNCE,Luis Fonsi,personalizado
+1656109611.571942,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,Robin Schulz,Lorde,personalizado
+1656109612.4038131,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,ok,Nathan Delfouneso,Nathan Delfouneso,personalizado
+1656109613.1549532,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,Darío Aimar,Diego Navarro,personalizado
+1656109613.8820083,d37a9206-8c3a-4cf8-89aa-bff34e704706,intento,LUCAS,error,Renatinho,Philippe Paulin Keny,personalizado
+1656109614.197248,d37a9206-8c3a-4cf8-89aa-bff34e704706,fin,LUCAS,finalizado,-,-,personalizado
+1656109659.502465,e9cfb4be-3003-4be2-a58c-4dff326355af,inicio_partida,edgar,,,,dificil
+1656109666.2441688,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,Renaldo Justinho,Leonardo Rocha,dificil
+1656109675.835946,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,ok,Macklemore,Macklemore,dificil
+1656109678.6764894,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,Lago Traful,Lago Quiroga,dificil
+1656109681.1083305,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,DJ Khaled,Lil Wayne,dificil
+1656109683.6126628,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,Lago Mascardi,Lago Quiroga,dificil
+1656109687.7886858,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,Lago Epecuén,Lago Argentino,dificil
+1656109697.97173,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,ok,Calvin Harris,Calvin Harris,dificil
+1656109702.3334556,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,Lago Aluminé,Lago Musters,dificil
+1656109712.7815523,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,Lago Onelli,Lago Pueyrredón,dificil
+1656109720.981583,e9cfb4be-3003-4be2-a58c-4dff326355af,intento,edgar,error,Lago La Plata,Lago Epecuén,dificil
+1656109721.3195221,e9cfb4be-3003-4be2-a58c-4dff326355af,fin,edgar,finalizado,-,-,dificil
+1656109744.8554382,f8d26b28-5482-4803-af17-55b0cc5e0260,inicio_partida,edgar,,,,dificil
+1656109747.5810897,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,error,Lago Lolog,Lago Buenos Aires,dificil
+1656109748.5473614,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,error,Lily Allen,Klangkarussell,dificil
+1656109749.3417878,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,ok,Roberto Inglese,Roberto Inglese,dificil
+1656109749.9725811,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,error,Lago Tromen,Lago Currhué,dificil
+1656109750.54833,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,error,Jamie McGrath,Shawn McCoulsky,dificil
+1656109751.1085987,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,error,Cher Lloyd,Axwell /\ Ingrosso,dificil
+1656109751.9243982,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,ok,Kento Hashimoto,Kento Hashimoto,dificil
+1656109752.8112352,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,error,Sam Smith,Jonas Brothers,dificil
+1656109753.476184,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,error,Lago Buenos Aires,Lago Burmeister,dificil
+1656109754.5241578,f8d26b28-5482-4803-af17-55b0cc5e0260,intento,edgar,ok,Mounir Bouziane,Mounir Bouziane,dificil
+1656109754.822669,f8d26b28-5482-4803-af17-55b0cc5e0260,fin,edgar,finalizado,-,-,dificil
+1656109756.8575156,9f8c970a-c048-44cd-aae1-54d458008214,inicio_partida,edgar,,,,dificil
+1656109758.4373717,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Wiley,5 Seconds of Summer,dificil
+1656109758.9793937,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,The Saturdays,AJ Tracey,dificil
+1656109759.5563676,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Sidney Samson,George Ezra,dificil
+1656109760.093284,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Rizzle Kicks,Macklemore,dificil
+1656109760.6931996,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Lago Río Bueno,Lago Río Chico,dificil
+1656109761.3793359,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Lago Epecuén,Lago Puelo,dificil
+1656109762.0043643,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Lago Rosario,Lago Onelli,dificil
+1656109762.670395,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Lago Salitroso o Sucio,Lago Yehuin,dificil
+1656109763.5642374,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,error,Ahmed El Messaoudi,Fabián Saavedra,dificil
+1656109785.8095531,9f8c970a-c048-44cd-aae1-54d458008214,intento,edgar,timeout,-,12466,dificil
+1656109785.8095531,9f8c970a-c048-44cd-aae1-54d458008214,fin,edgar,finalizado,-,-,dificil
+1656109790.557622,04784520-29b3-4e53-88f4-a9b8b3027db7,inicio_partida,edgar,,,,dificil
+1656109791.69259,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,ok,Lago Pico Nº 1,Lago Pico Nº 1,dificil
+1656109792.524535,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,ok,Tinie Tempah,Tinie Tempah,dificil
+1656109793.3003511,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Tove Lo,John Newman,dificil
+1656109793.7642226,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Lago Fontana,Lago Epecuén,dificil
+1656109794.341365,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Lago Musters,Lago Falkner,dificil
+1656109794.8842194,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Lago Moquehue,Lago Azara,dificil
+1656109795.5155883,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Lewis Baker,Alin ?eroni,dificil
+1656109796.1969395,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Nickelback,Years & Years,dificil
+1656109796.9332952,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Lago Salitroso o Sucio,Lago Futalaufquen,dificil
+1656109801.4190743,04784520-29b3-4e53-88f4-a9b8b3027db7,intento,edgar,error,Lago Ghío,Lago Gutiérrez,dificil
+1656109801.7573462,04784520-29b3-4e53-88f4-a9b8b3027db7,fin,edgar,finalizado,-,-,dificil
+1656109862.4110217,fced32f9-963b-4a1e-9eb0-717c066fc964,inicio_partida,edgar,,,,dificil
+1656109864.2522788,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Lago Menéndez,Lago Azara,dificil
+1656109864.9082656,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,ok,Lago Musters,Lago Musters,dificil
+1656109865.691948,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Mumford & Sons,Train,dificil
+1656109873.1488426,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Lunay,Lil Tecca,dificil
+1656109875.7720978,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Lago Perito Moreno,Lago Pellegrini,dificil
+1656109881.7401412,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Lago Chepelmut,Lago Falkner,dificil
+1656109887.4285016,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,ok,Narcisso Mau,Narcisso Mau,dificil
+1656109893.6442146,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Christian Mafla,Gonzalo Martínez,dificil
+1656109897.4351268,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Lago Nahuel Huapi,Lago Tromen,dificil
+1656109911.1908891,fced32f9-963b-4a1e-9eb0-717c066fc964,intento,edgar,error,Lago Rivadavia,Lago La Plata,dificil
+1656109911.511259,fced32f9-963b-4a1e-9eb0-717c066fc964,fin,edgar,finalizado,-,-,dificil
+1656112254.749899,fbc2ac33-18a3-4ada-b78a-8353fcc6cb4a,inicio_partida,edgar,,,,dificil
+1656112256.1684065,fbc2ac33-18a3-4ada-b78a-8353fcc6cb4a,intento,edgar,error,Lago La Plata,Lago Azara,dificil
+1656112256.719573,fbc2ac33-18a3-4ada-b78a-8353fcc6cb4a,intento,edgar,error,Lago Lácar,Lago Aluminé,dificil
+1656112257.273296,fbc2ac33-18a3-4ada-b78a-8353fcc6cb4a,intento,edgar,error,Justin Timberlake,Kendrick Lamar,dificil
+1656112258.6234136,fbc2ac33-18a3-4ada-b78a-8353fcc6cb4a,fin,edgar,abandonado,-,-,dificil
+1656114139.199195,0046ca66-5342-4e40-acdd-bcc2c2bec136,inicio_partida,edgar,,,,dificil
+1656114141.2673955,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Miguel,Bruno Mars,dificil
+1656114142.1406834,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Hugo Vetlesen,Danny Rose,dificil
+1656114142.8773994,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Sam Lundholm,Nico Rieble,dificil
+1656114143.509963,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,ok,Dynoro,Dynoro,dificil
+1656114144.3171656,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Lago Quiroga Chico,Lago Strobel,dificil
+1656114145.4594347,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Shawn Mendes,Tove Lo,dificil
+1656114146.8365452,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Lago Yehuin,Lago Blanco,dificil
+1656114147.8363245,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,ok,Lago Musters,Lago Musters,dificil
+1656114148.8920064,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Gorgon City,Petit Biscuit,dificil
+1656114150.0595825,0046ca66-5342-4e40-acdd-bcc2c2bec136,intento,edgar,error,Lars Coveliers,Sam Nicholson,dificil
+1656114150.3995118,0046ca66-5342-4e40-acdd-bcc2c2bec136,fin,edgar,finalizado,-,-,dificil
+1656114167.2220154,e35240ef-458d-4ff2-b075-3d094a37c03f,inicio_partida,LUCAS,,,,dificil
+1656114168.901366,e35240ef-458d-4ff2-b075-3d094a37c03f,intento,LUCAS,error,Lago Buenos Aires,Lago Currhué,dificil
+1656114170.580642,e35240ef-458d-4ff2-b075-3d094a37c03f,intento,LUCAS,error,Joseph Aidoo,Daniel Podence,dificil
+1656114172.061749,e35240ef-458d-4ff2-b075-3d094a37c03f,intento,LUCAS,error,Jay Sean,David Guetta,dificil
+1656114173.4046106,e35240ef-458d-4ff2-b075-3d094a37c03f,intento,LUCAS,error,Tinie Tempah,Jeremih,dificil
+1656114174.3175268,e35240ef-458d-4ff2-b075-3d094a37c03f,intento,LUCAS,error,Lago Gutiérrez,Lago Quillén,dificil
+1656114175.1333349,e35240ef-458d-4ff2-b075-3d094a37c03f,intento,LUCAS,error,Moisés Corozo,Nicholas D'Agostino,dificil
+1656114176.0692067,e35240ef-458d-4ff2-b075-3d094a37c03f,intento,LUCAS,error,-,Lago Falkner,dificil
+1656114177.8921254,e35240ef-458d-4ff2-b075-3d094a37c03f,fin,LUCAS,abandonado,-,-,dificil
+1656114194.9578574,b7c6dc0a-1eb0-43a7-b4a1-275c676ea881,inicio_partida,LUCAS,,,,dificil
+1656114197.4361815,b7c6dc0a-1eb0-43a7-b4a1-275c676ea881,intento,LUCAS,error,Joachim Soltvedt,Kieran Trippier,dificil
+1656114199.7413323,b7c6dc0a-1eb0-43a7-b4a1-275c676ea881,intento,LUCAS,error,Jonas Brothers,Regard,dificil
+1656114201.197271,b7c6dc0a-1eb0-43a7-b4a1-275c676ea881,intento,LUCAS,ok,Lago Burmeister,Lago Burmeister,dificil
+1656114202.403389,b7c6dc0a-1eb0-43a7-b4a1-275c676ea881,intento,LUCAS,error,Ludacris,Selena Gomez,dificil
+1656114203.4374442,b7c6dc0a-1eb0-43a7-b4a1-275c676ea881,intento,LUCAS,error,Maarten Stekelenburg,Odin Thiago Holm,dificil
+1656114206.7662692,b7c6dc0a-1eb0-43a7-b4a1-275c676ea881,fin,LUCAS,abandonado,-,-,dificil
+1656114251.8949792,a66395c6-9f64-4714-9672-928f09543565,inicio_partida,edgar,,,,dificil
+1656114253.7874699,a66395c6-9f64-4714-9672-928f09543565,fin,edgar,abandonado,-,-,dificil
+1656114256.0329814,c5f471c6-3e22-457e-8be9-c3433a4cffa3,inicio_partida,edgar,,,,facil
+1656114257.1328008,c5f471c6-3e22-457e-8be9-c3433a4cffa3,intento,edgar,ok,Trey Songz,Trey Songz,facil
+1656114258.3400805,c5f471c6-3e22-457e-8be9-c3433a4cffa3,intento,edgar,error,Lago Gutiérrez,Lago Nahuel Huapi,facil
+1656114259.1172252,c5f471c6-3e22-457e-8be9-c3433a4cffa3,intento,edgar,error,Daniel Sappa,Rafael Czichos,facil
+1656114260.500331,c5f471c6-3e22-457e-8be9-c3433a4cffa3,fin,edgar,abandonado,-,-,facil
+1656114265.4910443,77609151-4e40-42d6-a3ab-5c226d4c7b7a,inicio_partida,edgar,,,,facil
+1656114277.0203874,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,timeout,-,34,facil
+1656114279.4372137,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,error,Lago Tromen,Lago General Vintter,facil
+1656114289.9637418,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,timeout,-,7,facil
+1656114291.8929539,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,error,Duke Dumont,Maroon 5,facil
+1656114303.1732204,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,timeout,-,20,facil
+1656114307.3310916,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,error,Lago San Martín,Lago Buenos Aires,facil
+1656114318.2361689,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,timeout,-,12862,facil
+1656114324.062218,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,error,G-Eazy,Zay Hilfigerrr,facil
+1656114324.884046,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,error,Adele,Duke Dumont,facil
+1656114325.9405606,77609151-4e40-42d6-a3ab-5c226d4c7b7a,intento,edgar,error,Adam Lewis,Ibrahim Afellay,facil
+1656114326.2473927,77609151-4e40-42d6-a3ab-5c226d4c7b7a,fin,edgar,finalizado,-,-,facil
+1656114366.8262906,a1f7eaec-c7b4-4a7c-9753-2bdc5a634cf9,inicio_partida,PEPE,,,,personalizado
+1656114377.4760933,a1f7eaec-c7b4-4a7c-9753-2bdc5a634cf9,intento,PEPE,timeout,-,6505,personalizado
+1656114379.4921677,a1f7eaec-c7b4-4a7c-9753-2bdc5a634cf9,intento,PEPE,ok,Lago Perito Moreno,Lago Perito Moreno,personalizado
+1656114381.8918874,a1f7eaec-c7b4-4a7c-9753-2bdc5a634cf9,fin,PEPE,abandonado,-,-,personalizado
+1656114438.7558439,0dffc306-e964-4921-9be5-e349893bbbbe,inicio_partida,LUCAS,,,,personalizado
+1656114440.307506,0dffc306-e964-4921-9be5-e349893bbbbe,intento,LUCAS,ok,Richard Wood,Richard Wood,personalizado
+1656114441.267679,0dffc306-e964-4921-9be5-e349893bbbbe,intento,LUCAS,error,Robin Söder,Christophe Diandy,personalizado
+1656114453.2999582,0dffc306-e964-4921-9be5-e349893bbbbe,intento,LUCAS,timeout,-,40,personalizado
+1656114456.0523515,0dffc306-e964-4921-9be5-e349893bbbbe,fin,LUCAS,abandonado,-,-,personalizado
+1656116179.5740526,b1441f82-322f-45be-837e-f886b98247ff,inicio_partida,PEPE,,,,personalizado
+1656116188.8421197,b1441f82-322f-45be-837e-f886b98247ff,intento,PEPE,error,Tinashe,Chase & Status,personalizado
+1656121447.9720905,7befd356-b420-4c77-9b09-231649d6e420,inicio_partida,edgar,,,,personalizado
+1656121453.1136,7befd356-b420-4c77-9b09-231649d6e420,intento,edgar,error,ZHU,Tove Lo,personalizado
+1656121454.793604,7befd356-b420-4c77-9b09-231649d6e420,intento,edgar,error,Nickelback,The Lumineers,personalizado
+1656121459.1846075,7befd356-b420-4c77-9b09-231649d6e420,intento,edgar,error,Happy Jele,Enrico Del Prato,personalizado
+1656121460.336514,7befd356-b420-4c77-9b09-231649d6e420,intento,edgar,error,Katsuya Iwatake,Ryo Takahashi,personalizado
+1656121461.4096303,7befd356-b420-4c77-9b09-231649d6e420,intento,edgar,error,Choi Bo Kyung,Benrandy Abdallah,personalizado
+1656121472.200769,7befd356-b420-4c77-9b09-231649d6e420,intento,edgar,timeout,-,39,personalizado
+1656121477.736552,7befd356-b420-4c77-9b09-231649d6e420,fin,edgar,abandonado,-,-,personalizado
+1656262967.0629115,764ee719-dd2d-4cf8-9548-a11c4f6f0913,inicio_partida,kk,,,,personalizado
+1656262990.5906763,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Petar Brlek,Alex Gorrín,personalizado
+1656262994.9767954,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,ok,Thomas Rhett,Thomas Rhett,personalizado
+1656262996.674674,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Leandro Carrijo,Li Tixiang,personalizado
+1656262997.8519688,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Post Malone,Daft Punk,personalizado
+1656263001.6124055,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Glen Kamara,Guido Pizarro,personalizado
+1656263002.4875796,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Jonas Blue,Sia,personalizado
+1656263003.0762188,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Sam McQueen,Gabriel Carrasco,personalizado
+1656263003.6856186,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Paulo Magalhães,Sabit Abdulai,personalizado
+1656263004.52002,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Thulani Serero,Maarten Stekelenburg,personalizado
+1656263005.484123,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Philip George,Snoop Dogg,personalizado
+1656263006.8230329,764ee719-dd2d-4cf8-9548-a11c4f6f0913,intento,kk,error,Gustavo Cabral,Bashkim Kadrii,personalizado
+1656263007.1673474,764ee719-dd2d-4cf8-9548-a11c4f6f0913,fin,kk,finalizado,-,-,personalizado
+1657331324.837075,c589a0a0-0557-4687-be0f-8799f052710a,inicio_partida,paco,,,,facil
+1657331327.1679482,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Lago Argentino,Lago Tromen,facil
+1657331328.232512,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,fun.,Chris Brown,facil
+1657331329.2609916,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Young Thug,Taylor Swift,facil
+1657331329.9854915,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Pepe,Luís Alberto García,facil
+1657331330.6859136,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Disclosure,DJ Khaled,facil
+1657331331.0486097,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Sigma,Taylor Swift,facil
+1657331331.5509603,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Abdülkadir Ömür,Luis Miguel Escalada,facil
+1657331332.0939758,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Khalid,Galantis,facil
+1657331332.5102105,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,error,Richard Tait,Bjørn Inge Utvik,facil
+1657331333.4535112,c589a0a0-0557-4687-be0f-8799f052710a,intento,paco,ok,Lago Strobel,Lago Strobel,facil
+1657331333.8035092,c589a0a0-0557-4687-be0f-8799f052710a,fin,paco,finalizado,-,-,facil
+1657475071.7102246,5f6e1f84-796b-4047-89b8-053e20721d78,inicio_partida,Ana ,,,,facil
+1657475076.9795504,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Nico & Vinz,King Princess,facil
+1657475077.5120199,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Ricky Holmes,Manabu Saito,facil
+1657475077.8613267,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Gabri Prestão,Ben Barclay,facil
+1657475078.1783104,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Icona Pop,Chris Brown,facil
+1657475079.215665,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,ok,Katy Perry,Katy Perry,facil
+1657475079.5705612,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,ok,Philippe,Philippe,facil
+1657475080.6623173,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Lago Blanco,Lago San Martín,facil
+1657475081.0952902,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Lago Rosario,Lago Chepelmut,facil
+1657475081.7757945,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Lago Gutiérrez,Lago Nahuel Huapi,facil
+1657475082.3082721,5f6e1f84-796b-4047-89b8-053e20721d78,intento,Ana ,error,Isaac Olaofe,Antonios Papadopoulos,facil
+1657475082.625002,5f6e1f84-796b-4047-89b8-053e20721d78,fin,Ana ,finalizado,-,-,facil
+1657480003.1068933,3e51808c-afcc-44c5-be32-796b60192278,inicio_partida,bart,,,,facil
+1657480005.4677212,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,error,Lil Wayne,Martin Garrix,facil
+1657480006.7658937,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,ok,Andrés Cadavid,Andrés Cadavid,facil
+1657480008.0729215,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,error,Lago Quiroga Chico,Lago Quillén,facil
+1657480009.015259,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,error,Lago Salitroso o Sucio,Lago Belgrano,facil
+1657480010.1619272,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,ok,Boško Šutalo,Boško Šutalo,facil
+1657480011.5072646,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,error,Stormzy,Bobby Shmurda,facil
+1657480012.5385675,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,error,Fifth Harmony,Saweetie,facil
+1657480013.5790083,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,error,Jean Hugonet,Yuta Higuchi,facil
+1657480014.9653683,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,ok,Luimo Boas Santos,Luimo Boas Santos,facil
+1657480016.0706408,3e51808c-afcc-44c5-be32-796b60192278,intento,bart,ok,Kevin Akpoguma,Kevin Akpoguma,facil
+1657480016.3973525,3e51808c-afcc-44c5-be32-796b60192278,fin,bart,finalizado,-,-,facil
+1657480040.9191334,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,inicio_partida,bart,,,,facil
+1657480043.5347369,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,French Montana,Ellie Goulding,facil
+1657480044.6109073,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,Ali Ahmed Al Zaqan,Cedric Omoigui,facil
+1657480046.094372,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,Daisuke Suzuki,Kim Woo Suk,facil
+1657480047.0287685,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,Lago Futalaufquen,Lago Aluminé,facil
+1657480047.9594178,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,Lago Falkner,Lago Epuyén,facil
+1657480048.9474666,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,Matías Ahumada Acuña,Stefano Turati,facil
+1657480049.8619251,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,Lago Quillén,Lago Quiroga,facil
+1657480050.7733355,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,Bazzi,David Guetta,facil
+1657480051.7242184,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,error,K'NAAN,Niall Horan,facil
+1657480053.5814962,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,intento,bart,ok,Nathaniel Atkinson,Nathaniel Atkinson,facil
+1657480053.8978467,e0cd8aa7-f1b2-47d9-a272-4584f2f8a043,fin,bart,finalizado,-,-,facil
+1657480096.956318,889087b8-94bc-49c0-92ef-0e89ac6192e9,inicio_partida,bart,,,,facil
+1657480098.984042,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,ok,Khalid,Khalid,facil
+1657480100.2035692,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,Paramore,Janelle Monáe,facil
+1657480101.2937086,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,ok,Wiz Khalifa,Wiz Khalifa,facil
+1657480102.3388278,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,ZHU,The Lumineers,facil
+1657480103.2117326,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,Alexander Callens,Arnaud Bodart,facil
+1657480104.1719086,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,Lago Buenos Aires,Lago San Martín,facil
+1657480105.0760758,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,Lil Uzi Vert,Justin Bieber,facil
+1657480106.0111945,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,Lago Fontana,Lago Río Chico,facil
+1657480106.963349,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,William Vainqueur,Andrei Lupu,facil
+1657480107.9070835,889087b8-94bc-49c0-92ef-0e89ac6192e9,intento,bart,error,Júnior Tavares,Ola Aina,facil
+1657480108.2497115,889087b8-94bc-49c0-92ef-0e89ac6192e9,fin,bart,finalizado,-,-,facil
+1657480138.3593533,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,inicio_partida,bart,,,,facil
+1657480141.7453032,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,Lago Lolog,Lago Fagnano,facil
+1657480144.6473968,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,ok,Lago Buenos Aires,Lago Buenos Aires,facil
+1657480145.817988,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,The Vamps,Mark Ronson,facil
+1657480146.7150276,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,Pedro Santos,Leonardo Rocha,facil
+1657480147.6266258,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,Asaf Avidan,Shawn Mendes,facil
+1657480148.540309,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,James Garner,Alemão,facil
+1657480149.5618331,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,Jean-Eudes Aholou,Immanuel Höhn,facil
+1657480150.510981,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,Lago Correntoso,Lago Rivadavia,facil
+1657480151.4221802,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,Morgan Fox,Martin Hašek,facil
+1657480152.344381,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,intento,bart,error,Mauricio Isla,Silas Almeim,facil
+1657480152.6576304,ca48fb7e-4d3f-41d1-9c5c-2ae318caff93,fin,bart,finalizado,-,-,facil
+1657480273.3441164,3b110fc8-6b3b-4716-8dc9-c33651345dff,inicio_partida,bart,,,,dificil
+1657480275.780557,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Dimitrij Nazarov,Wilfried Kanga,dificil
+1657480277.1043048,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Wale,Drake,dificil
+1657480278.3778806,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Lago Lolog,Lago Asador o Guitarra,dificil
+1657480279.6547375,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Lago Pellegrini,Lago Paimún,dificil
+1657480280.973484,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Taisei Miyashiro,Matías Rodríguez,dificil
+1657480282.52412,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,ok,Example,Example,dificil
+1657480284.0861435,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Dennis Praet,Dan Butler,dificil
+1657480285.5402794,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,ok,Guido Carrillo,Guido Carrillo,dificil
+1657480286.786387,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Alan Sosa,Shin Chang Moo,dificil
+1657480288.0676892,3b110fc8-6b3b-4716-8dc9-c33651345dff,intento,bart,error,Lago San Martín,Lago Burmeister,dificil
+1657480288.3907404,3b110fc8-6b3b-4716-8dc9-c33651345dff,fin,bart,finalizado,-,-,dificil
+1657480394.5057042,f39f8f51-4b89-4db4-a063-0bd4df229011,inicio_partida,bart,,,,facil
+1657480396.8095639,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,error,Michael O'Connor,Kamil Mazek,facil
+1657480397.8609803,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,ok,Lago Belgrano,Lago Belgrano,facil
+1657480399.0122187,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,error,Lauv,Taylor Swift,facil
+1657480399.942447,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,error,Lago Espejo,Lago Nansen,facil
+1657480401.2470307,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,error,Lago Burmeister,Lago Fagnano,facil
+1657480402.485543,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,ok,Lago Traful,Lago Traful,facil
+1657480403.7443495,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,error,Maxim Eleev,Nikola Milenkovic,facil
+1657480404.7796297,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,error,Michael Crowe,Graham Zusi,facil
+1657480406.11215,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,error,Iano? Brînza,Mukhair Al Rashidi,facil
+1657480407.4561634,f39f8f51-4b89-4db4-a063-0bd4df229011,intento,bart,ok,Lago Rosario,Lago Rosario,facil
+1657480407.769808,f39f8f51-4b89-4db4-a063-0bd4df229011,fin,bart,finalizado,-,-,facil
+1657480672.982396,f5e552e7-07fb-42ce-b427-d40fac605e7e,inicio_partida,bart,,,,dificil
+1657480675.087045,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,BlocBoy JB,Marshmello,dificil
+1657480675.6124868,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,Lago Perito Moreno,Lago Quiroga Chico,dificil
+1657480675.9443839,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,A$AP Rocky,Marc E. Bassy,dificil
+1657480676.8875594,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,ok,Lago Paimún,Lago Paimún,dificil
+1657480677.654358,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,Brandur Hendriksson Olsen,Ola Brynhildsen,dificil
+1657480677.9867804,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,Blake Shelton,XXXTENTACION,dificil
+1657480678.310089,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,Florence + The Machine,Taylor Swift,dificil
+1657480678.6416144,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,Manoel,Thomas Fontaine,dificil
+1657480679.3380065,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,error,Ella Mai,Rihanna,dificil
+1657480680.545767,f5e552e7-07fb-42ce-b427-d40fac605e7e,intento,bart,ok,Lago Fagnano,Lago Fagnano,dificil
+1657480680.87075,f5e552e7-07fb-42ce-b427-d40fac605e7e,fin,bart,finalizado,-,-,dificil
+1657718365.057784,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,inicio_partida,xx,,,,dificil
+1657718367.8032763,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,Kornelius Hansen,Daniele Verde,dificil
+1657718368.8795044,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,iann dior,Polo G,dificil
+1657718369.502026,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,Lago Gutiérrez,Lago Lolog,dificil
+1657718370.7009747,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,ok,Jair Céspedes,Jair Céspedes,dificil
+1657718371.6430502,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,Lago Moquehue,Lago Asador o Guitarra,dificil
+1657718372.1887126,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,Robert Cueto,Martin Kelly,dificil
+1657718372.6553113,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,Lago Futalaufquen,Lago Lácar,dificil
+1657718373.4596293,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,Kasper Schmeichel,Éder Castañeda,dificil
+1657718374.5868037,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,ok,Juan Acosta,Juan Acosta,dificil
+1657718375.7317154,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,intento,xx,error,Lago Tar,Lago Quiroga Chico,dificil
+1657718376.0449,3c1ec6d0-8955-4f55-a821-5f07fd09d67c,fin,xx,finalizado,-,-,dificil
+1682893872.765777,66f06e08-2511-4b57-9017-4f2d5fa2349a,inicio_partida,Ana ,,,,personalizado
+1682893879.9874108,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Lago Quillén,Lago General Vintter,personalizado
+1682893904.8865461,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Itsuki Someno,Samuele Campo,personalizado
+1682893907.2279274,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,ok,Sandeiro Leal,Sandeiro Leal,personalizado
+1682893928.190606,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,ok,Bastille,Bastille,personalizado
+1682893944.0236003,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Lago Aluminé,Lago Lácar,personalizado
+1682893948.6553547,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Lil Baby,Nick Jonas,personalizado
+1682893949.73743,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Jax Jones,Hailee Steinfeld,personalizado
+1682893951.7521217,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Lago Nahuel Huapi,Lago Paimún,personalizado
+1682893952.1212435,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Michael Schimpelsberger,Kai Klefisch,personalizado
+1682893952.5445058,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Julian Börner,Bruno Mendes,personalizado
+1682893952.8274999,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Rob $tone,The Chainsmokers,personalizado
+1682893954.1204054,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,ok,Alistair McCann,Alistair McCann,personalizado
+1682893954.9861302,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,ok,Jordan Ayew,Jordan Ayew,personalizado
+1682893956.2933514,66f06e08-2511-4b57-9017-4f2d5fa2349a,intento,Ana ,error,Lago Blanco,Lago Paimún,personalizado
+1682893956.6285517,66f06e08-2511-4b57-9017-4f2d5fa2349a,fin,Ana ,finalizado,-,-,personalizado

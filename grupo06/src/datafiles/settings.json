@@ -1,0 +1,34 @@
+{
+    "facil": {
+        "tiempo_x_ronda": 60.0,
+        "rondas_x_juego": 10.0,
+        "suma_puntaje": 50.0,
+        "resta_puntaje": 10.0,
+        "car_a_mostrar": 5.0,
+        "select": false
+    },
+    "normal": {
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 10.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "select": false
+    },
+    "dificil": {
+        "tiempo_x_ronda": 20.0,
+        "rondas_x_juego": 10.0,
+        "suma_puntaje": 20.0,
+        "resta_puntaje": 30.0,
+        "car_a_mostrar": 2.0,
+        "select": false
+    },
+    "personalizado": {
+        "tiempo_x_ronda": 35.0,
+        "rondas_x_juego": 14.0,
+        "suma_puntaje": 20.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "select": true
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "pedrito": {
+        "edad": "10",
+        "genero": "mujer",
+        "tiempo_x_ronda": 60.0,
+        "rondas_x_juego": 10.0,
+        "suma_puntaje": 50.0,
+        "resta_puntaje": 10.0,
+        "car_a_mostrar": 5.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 1.0
+        },
+        "puntajes": {
+            "record_facil": 60.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 80.0,
+            "total_normal": 0.0,
+            "total_dificil": 1.0
+        }
+    },
+    "asdwq": {
+        "edad": "12",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 10.0,
+        "rondas_x_juego": 10.0,
+        "suma_puntaje": 10.0,
+        "resta_puntaje": 10.0,
+        "car_a_mostrar": 2.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 1.0
+        },
+        "puntajes": {
+            "record_facil": 60.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "juancito": {
+        "edad": "31",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 13.0,
+        "suma_puntaje": 40.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 1.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 20.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "pepito": {
+        "edad": "2423",
+        "genero": "mujer",
+        "tiempo_x_ronda": 20.0,
+        "rondas_x_juego": 10.0,
+        "suma_puntaje": 20.0,
+        "resta_puntaje": 30.0,
+        "car_a_mostrar": 1.0,
+        "partidas_jugadas": {
+            "facil": 1.0,
+            "normal": 2.0,
+            "dificil": 1.0
+        },
+        "puntajes": {
+            "record_facil": 20.0,
+            "record_normal": -150.0,
+            "record_dificil": -200.0,
+            "total_facil": 20.0,
+            "total_normal": -250.0,
+            "total_dificil": -200.0
+        }
+    },
+    "paco": {
+        "edad": "20",
+        "genero": "hombre",
+        "tiempo_x_ronda": 10.0,
+        "rondas_x_juego": 10.0,
+        "suma_puntaje": 10.0,
+        "resta_puntaje": 10.0,
+        "car_a_mostrar": 5.0,
+        "partidas_jugadas": {
+            "facil": 5.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 40.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 130.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "nn": {
+        "edad": "30",
+        "genero": "mujer",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "Julian Rosenfeld": {
+        "edad": "19",
+        "genero": "hombre",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 1.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 140.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 140.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "lucas+{}----\u00b02\\": {
+        "edad": "76",
+        "genero": "hombre",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 1.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": -50.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": -50.0
+        }
+    },
+    "Ana ": {
+        "edad": "50",
+        "genero": "mujer",
+        "tiempo_x_ronda": 35.0,
+        "rondas_x_juego": 14.0,
+        "suma_puntaje": 20.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 1.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 20.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 20.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "bart": {
+        "edad": "11",
+        "genero": "hombre",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 5.0,
+            "normal": 0.0,
+            "dificil": 2.0
+        },
+        "puntajes": {
+            "record_facil": 140.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 160.0,
+            "total_normal": 0.0,
+            "total_dificil": -400.0
+        }
+    },
+    "aa": {
+        "edad": "12",
+        "genero": "mujer",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "bb": {
+        "edad": "14",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "cc": {
+        "edad": "22",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "dd": {
+        "edad": "13",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "ff": {
+        "edad": "32",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "gg": {
+        "edad": "32",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "hh": {
+        "edad": "54",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "jj": {
+        "edad": "23",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "kk": {
+        "edad": "11",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "ll": {
+        "edad": "67",
+        "genero": "sin genero",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 0.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": 0.0
+        }
+    },
+    "xx": {
+        "edad": "32",
+        "genero": "hombre",
+        "tiempo_x_ronda": 40.0,
+        "rondas_x_juego": 15.0,
+        "suma_puntaje": 30.0,
+        "resta_puntaje": 20.0,
+        "car_a_mostrar": 3.0,
+        "partidas_jugadas": {
+            "facil": 0.0,
+            "normal": 0.0,
+            "dificil": 1.0
+        },
+        "puntajes": {
+            "record_facil": 0.0,
+            "record_normal": 0.0,
+            "record_dificil": 0.0,
+            "total_facil": 0.0,
+            "total_normal": 0.0,
+            "total_dificil": -200.0
+        }
+    }
+}

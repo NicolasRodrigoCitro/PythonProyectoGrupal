@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 
-#importa constantes y rutas
+#importa constantes y rutas.
 from config import *
 
 #importa modulos de logica
